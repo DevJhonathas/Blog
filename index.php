@@ -11,10 +11,9 @@
     <title>Projeto 01</title>
 </head>
 <body>
-    <header> <!-- Server para ser o TOPO do site-->
+    <header> <!--TOPO do site-->
         <div class="center">
-        <div class="logo">Logomarca</div> <!-- LOGO--> 
-        <!-- Div serve para facilitar no css-->
+        <div class="logo">Logomarca</div> <!-- LOGO-->
         <nav class="desktop">
             <ul>
                 <li><a href="home">Home</a></li>
